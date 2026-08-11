@@ -1,5 +1,6 @@
 # FNP-Sales-Performance-Dashboard
-!![Dashboard Preview](FNP_Sales_Performance_Dashboard.png)
+An Excel-based dashboard to analyze sales, revenue, customer spending, and product performance for FNP (Ferns N Petals).
+
 
 ## 🔎 About the Project
 
