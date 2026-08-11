@@ -1,5 +1,5 @@
 # FNP-Sales-Performance-Dashboard
-![Dashboard Preview](FNP_Sales_Performance_Dashboard.png)
+!![Dashboard Preview](FNP_Sales_Performance_Dashboard.png)
 
 ## 🔎 About the Project
 
